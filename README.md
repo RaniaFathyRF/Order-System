@@ -26,8 +26,8 @@ A robust order processing system with inventory management built with Laravel an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/order-system.git
-   cd order-system
+   git clone https://github.com/RaniaFathyRF/Order-System.git
+   cd Order-System
    ```
 
 2. Install dependencies:
